@@ -1,5 +1,7 @@
 # notas_final.py
+
 ======
+
 **notas_final.py** foi um exercício feito para a matéria de algoritmo da FATEC sjc.
 Ele recebe um arquivo .txt de informado na linha de comando:
 
